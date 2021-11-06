@@ -1,0 +1,11 @@
+.button,
+.black,
+.yellow{ font-size: 28px;
+            font-style: 'Helvetica', 'Times New Roman', 'sans-serif';
+
+}
+
+.black { background-color: rgb(29, 28, 28);
+            color: white;}
+
+.yellow { background-color: rgb(241, 229, 116)}
