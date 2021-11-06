@@ -1,0 +1,14 @@
+.odd,
+.third { background-color: lightpink;
+    font-style: Verdana, sans-serif;
+}
+
+.third {    font-size: 24px;}
+
+#div1 { color: blue;
+        font-size: 36px;
+}
+
+#div2 { font-weight: bold;
+        font-size: 24px;
+        background-color: lightgreen}
