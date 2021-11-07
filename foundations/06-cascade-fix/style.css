@@ -1,14 +1,10 @@
-.para,
-.small-para {
-  color: hsl(0, 100%, 50%);
+.para.small-para {
+font-size: 11px;
 }
 
-.small-para {
-  font-size: 12px;
-}
 
 .para {
-  font-size: 22px;
+  font-size: 22px; color: red;
 }
 
 .confirm {
@@ -18,18 +14,27 @@
   font-weight: bold;
 } 
 
-.button {
+
+.button,
+.confirm,
+.cancel{
   background-color: #ffc0cb;
   color: black;
   font-size: 20px;
 }
 
-.child {
-  color: red;
-  font-size: 14px;
+.confirm {
+  color: white; background-color:green;
 }
 
-div.text {
+
+
+.text {
   color: green;
   font-size: 28px;
+}
+
+.text .child{
+  color: red;
+  font-size: 14px;
 }
